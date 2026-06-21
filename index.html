@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GEO Baseline Dashboards · The Media Copilot</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  background: #ffffff;
+  color: #111;
+  margin: 0;
+  padding: 48px 24px;
+  line-height: 1.5;
+  max-width: 760px;
+  margin: 0 auto;
+}
+.eyebrow { color: #7AA1D4; font-weight: 700; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 12px; }
+h1 { font-family: Impact, "Arial Black", sans-serif; font-size: 56px; line-height: 1.05; margin: 0 0 12px 0; color: #111; letter-spacing: 0.02em; }
+h1 .accent { color: #004AAD; }
+.lede { color: #555; font-size: 18px; margin: 0 0 36px 0; }
+.dash-list { display: grid; gap: 16px; margin: 32px 0; padding: 0; list-style: none; }
+.dash-list li { border: 1px solid #e5e5e5; border-radius: 10px; transition: border-color 0.15s ease; }
+.dash-list li:hover { border-color: #004AAD; }
+.dash-list a { display: block; padding: 18px 22px; color: inherit; text-decoration: none; }
+.dash-list h2 { margin: 0 0 6px 0; font-size: 20px; color: #004AAD; }
+.dash-list .meta { font-size: 13px; color: #666; }
+.about { margin-top: 56px; padding-top: 32px; border-top: 1px solid #e5e5e5; font-size: 14px; color: #666; }
+.about p { margin: 0 0 12px 0; }
+.about a { color: #004AAD; }
+.badge { display: inline-block; background: #f1ecff; color: #2d2270; font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; margin-left: 6px; vertical-align: middle; }
+</style>
+</head>
+<body>
+
+<div class="eyebrow">Worked examples</div>
+<h1>GEO baseline <span class="accent">dashboards.</span></h1>
+<p class="lede">Two brands tracked weekly across the major AI answer engines (ChatGPT, Perplexity, Gemini, Claude) using the methodology from <em>Getting Started with GEO</em>. Same query set every run, so the trend line stays comparable. <span class="badge">Auto-updating</span></p>
+
+<ul class="dash-list">
+  <li>
+    <a href="dashboard.html#media-copilot">
+      <h2>The Media Copilot</h2>
+      <div class="meta">My own brand — tracked weekly</div>
+    </a>
+  </li>
+  <li>
+    <a href="dashboard.html#eight-sleep">
+      <h2>Eight Sleep</h2>
+      <div class="meta">Consumer sleep-tech case study</div>
+    </a>
+  </li>
+</ul>
+
+<div class="about">
+  <p>Dashboards regenerate every Monday morning via GitHub Actions. Each cell shows whether the brand was Mentioned (M), Cited (C), both (MC), or neither (—), plus which competitor brands and source domains filled the slot when the brand was absent.</p>
+  <p>Methodology and starter pack at <a href="https://mediacopilot.ai">mediacopilot.ai</a>.</p>
+  <p>By Pete Pachal, founder of The Media Copilot.</p>
+</div>
+
+</body>
+</html>

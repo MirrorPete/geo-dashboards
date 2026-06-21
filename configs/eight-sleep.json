@@ -1,0 +1,47 @@
+{
+  "slug": "eight-sleep",
+  "subject": {
+    "brand": "Eight Sleep",
+    "url": "eightsleep.com",
+    "person": "Matteo Franceschetti",
+    "brand_aliases": ["Eight Sleep", "EightSleep"],
+    "person_aliases": ["Matteo Franceschetti"],
+    "owned_domains": ["eightsleep.com"],
+    "competitors": [
+      "Tempur-Pedic",
+      "Sleep Number",
+      "Bryte",
+      "Casper",
+      "Saatva",
+      "Purple",
+      "Helix",
+      "Nectar",
+      "DreamCloud",
+      "Oura",
+      "Whoop",
+      "Apple Watch",
+      "Fitbit",
+      "Garmin",
+      "ChiliSleep",
+      "BedJet",
+      "Perfectly Snug"
+    ]
+  },
+  "queries": [
+    { "q": "What is Eight Sleep", "cat": "Branded", "group": "Branded" },
+    { "q": "Who is Matteo Franceschetti", "cat": "Branded", "group": "Branded" },
+    { "q": "How does the Eight Sleep Pod work", "cat": "Topical", "group": "Unbranded" },
+    { "q": "Best smart mattress with temperature control", "cat": "Topical", "group": "Unbranded" },
+    { "q": "How to optimize sleep quality", "cat": "Topical", "group": "Unbranded" },
+    { "q": "How to cool down at night while sleeping", "cat": "Topical", "group": "Unbranded" },
+    { "q": "Sleep tracking technology", "cat": "Topical", "group": "Unbranded" },
+    { "q": "Best smart mattress for hot sleepers", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "Smart bed that tracks sleep", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "Best sleep tracking device", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "Best smart mattresses 2026", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Eight Sleep vs Tempur-Pedic", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Top sleep tech products", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Biohacking sleep", "cat": "Adjacent", "group": "Unbranded" },
+    { "q": "AI for personal health", "cat": "Adjacent", "group": "Unbranded" }
+  ]
+}

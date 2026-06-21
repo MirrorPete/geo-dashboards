@@ -1,0 +1,39 @@
+{
+  "slug": "media-copilot",
+  "subject": {
+    "brand": "The Media Copilot",
+    "url": "mediacopilot.ai",
+    "person": "Pete Pachal",
+    "brand_aliases": ["The Media Copilot", "Media Copilot"],
+    "person_aliases": ["Pete Pachal"],
+    "owned_domains": ["mediacopilot.ai", "mediacopilot.substack.com"],
+    "competitors": [
+      "The Rundown AI",
+      "Superhuman AI",
+      "Ben's Bites",
+      "JournalismAI",
+      "Knight Center",
+      "Poynter",
+      "CNN Academy",
+      "Reuters Institute",
+      "Nieman Lab"
+    ]
+  },
+  "queries": [
+    { "q": "What is The Media Copilot", "cat": "Branded", "group": "Branded" },
+    { "q": "Who is Pete Pachal", "cat": "Branded", "group": "Branded" },
+    { "q": "How should journalists use generative AI", "cat": "Topical", "group": "Unbranded" },
+    { "q": "What are the best AI tools for journalists", "cat": "Topical", "group": "Unbranded" },
+    { "q": "How are newsrooms adopting AI", "cat": "Topical", "group": "Unbranded" },
+    { "q": "AI ethics in journalism", "cat": "Topical", "group": "Unbranded" },
+    { "q": "AI tools for newsroom workflows", "cat": "Topical", "group": "Unbranded" },
+    { "q": "AI training programs for journalists", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "Where can journalists learn generative AI", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "AI consultants for media companies", "cat": "Commercial", "group": "Unbranded" },
+    { "q": "Best newsletter about AI in media", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Top AI experts in journalism", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Best resources for learning AI as a media professional", "cat": "Comparison", "group": "Unbranded" },
+    { "q": "Generative AI for PR and communications professionals", "cat": "Adjacent", "group": "Unbranded" },
+    { "q": "How should marketers use generative AI", "cat": "Adjacent", "group": "Unbranded" }
+  ]
+}
