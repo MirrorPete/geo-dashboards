@@ -2,28 +2,667 @@
   "brand": "The Media Copilot",
   "url": "mediacopilot.ai",
   "person": "Pete Pachal",
-  "lastRun": "2026-04-26",
+  "lastRun": "2026-06-21",
   "queries": [
-    { "q": "What is The Media Copilot", "cat": "Branded", "group": "Branded" },
-    { "q": "Who is Pete Pachal", "cat": "Branded", "group": "Branded" },
-    { "q": "How should journalists use generative AI", "cat": "Topical", "group": "Unbranded" },
-    { "q": "What are the best AI tools for journalists", "cat": "Topical", "group": "Unbranded" },
-    { "q": "How are newsrooms adopting AI", "cat": "Topical", "group": "Unbranded" },
-    { "q": "AI ethics in journalism", "cat": "Topical", "group": "Unbranded" },
-    { "q": "AI tools for newsroom workflows", "cat": "Topical", "group": "Unbranded" },
-    { "q": "AI training programs for journalists", "cat": "Commercial", "group": "Unbranded" },
-    { "q": "Where can journalists learn generative AI", "cat": "Commercial", "group": "Unbranded" },
-    { "q": "AI consultants for media companies", "cat": "Commercial", "group": "Unbranded" },
-    { "q": "Best newsletter about AI in media", "cat": "Comparison", "group": "Unbranded" },
-    { "q": "Top AI experts in journalism", "cat": "Comparison", "group": "Unbranded" },
-    { "q": "Best resources for learning AI as a media professional", "cat": "Comparison", "group": "Unbranded" },
-    { "q": "Generative AI for PR and communications professionals", "cat": "Adjacent", "group": "Unbranded" },
-    { "q": "How should marketers use generative AI", "cat": "Adjacent", "group": "Unbranded" }
+    {
+      "q": "What is The Media Copilot",
+      "cat": "Branded",
+      "group": "Branded"
+    },
+    {
+      "q": "Who is Pete Pachal",
+      "cat": "Branded",
+      "group": "Branded"
+    },
+    {
+      "q": "How should journalists use generative AI",
+      "cat": "Topical",
+      "group": "Unbranded"
+    },
+    {
+      "q": "What are the best AI tools for journalists",
+      "cat": "Topical",
+      "group": "Unbranded"
+    },
+    {
+      "q": "How are newsrooms adopting AI",
+      "cat": "Topical",
+      "group": "Unbranded"
+    },
+    {
+      "q": "AI ethics in journalism",
+      "cat": "Topical",
+      "group": "Unbranded"
+    },
+    {
+      "q": "AI tools for newsroom workflows",
+      "cat": "Topical",
+      "group": "Unbranded"
+    },
+    {
+      "q": "AI training programs for journalists",
+      "cat": "Commercial",
+      "group": "Unbranded"
+    },
+    {
+      "q": "Where can journalists learn generative AI",
+      "cat": "Commercial",
+      "group": "Unbranded"
+    },
+    {
+      "q": "AI consultants for media companies",
+      "cat": "Commercial",
+      "group": "Unbranded"
+    },
+    {
+      "q": "Best newsletter about AI in media",
+      "cat": "Comparison",
+      "group": "Unbranded"
+    },
+    {
+      "q": "Top AI experts in journalism",
+      "cat": "Comparison",
+      "group": "Unbranded"
+    },
+    {
+      "q": "Best resources for learning AI as a media professional",
+      "cat": "Comparison",
+      "group": "Unbranded"
+    },
+    {
+      "q": "Generative AI for PR and communications professionals",
+      "cat": "Adjacent",
+      "group": "Unbranded"
+    },
+    {
+      "q": "How should marketers use generative AI",
+      "cat": "Adjacent",
+      "group": "Unbranded"
+    }
   ],
   "results": {
-    "chatgpt":    { "0":{"code":"M"}, "1":{"code":"M"}, "2":{"code":"-"}, "3":{"code":"ERR"}, "4":{"code":"-"}, "5":{"code":"-"}, "6":{"code":"-"}, "7":{"code":"M"}, "8":{"code":"M"}, "9":{"code":"-"}, "10":{"code":"ERR"}, "11":{"code":"-"}, "12":{"code":"-"}, "13":{"code":"-"}, "14":{"code":"-"} },
-    "perplexity": { "0":{"code":"MC"}, "1":{"code":"MC"}, "2":{"code":"-"}, "3":{"code":"-"}, "4":{"code":"-"}, "5":{"code":"-"}, "6":{"code":"-"}, "7":{"code":"MC"}, "8":{"code":"-"}, "9":{"code":"-"}, "10":{"code":"-"}, "11":{"code":"-"}, "12":{"code":"-"}, "13":{"code":"-"}, "14":{"code":"-"} },
-    "gemini":     { "0":{"code":"M"}, "1":{"code":"M"}, "2":{"code":"-"}, "3":{"code":"-"}, "4":{"code":"-"}, "5":{"code":"-"}, "6":{"code":"-"}, "7":{"code":"-"}, "8":{"code":"-"}, "9":{"code":"-"}, "10":{"code":"-"}, "11":{"code":"-"}, "12":{"code":"-"}, "13":{"code":"-"}, "14":{"code":"-"} },
-    "claude":     { "0":{"code":"MC"}, "1":{"code":"MC"}, "2":{"code":"-"}, "3":{"code":"-"}, "4":{"code":"M"}, "5":{"code":"-"}, "6":{"code":"M"}, "7":{"code":"-"}, "8":{"code":"-"}, "9":{"code":"-"}, "10":{"code":"M"}, "11":{"code":"M"}, "12":{"code":"M"}, "13":{"code":"-"}, "14":{"code":"-"} }
+    "chatgpt": {
+      "0": {
+        "code": "MC",
+        "cited_domains": [
+          "linkedin"
+        ],
+        "competitors_named": []
+      },
+      "1": {
+        "code": "M",
+        "cited_domains": [
+          "localmedia",
+          "forbes",
+          "muckrack",
+          "coindesk"
+        ],
+        "competitors_named": []
+      },
+      "2": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": [
+          "Reuters Institute"
+        ]
+      },
+      "3": {
+        "code": "-",
+        "cited_domains": [
+          "kursiv",
+          "aipedia",
+          "note",
+          "ipnet"
+        ],
+        "competitors_named": []
+      },
+      "4": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      },
+      "5": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      },
+      "6": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      },
+      "7": {
+        "code": "MC",
+        "cited_domains": [
+          "fernstudium-direkt",
+          "journalismai",
+          "nctj",
+          "aljazeera"
+        ],
+        "competitors_named": [
+          "JournalismAI"
+        ]
+      },
+      "8": {
+        "code": "MC",
+        "cited_domains": [
+          "journalismai",
+          "poynter",
+          "datastatresearch",
+          "journalismcourses"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "Knight Center",
+          "Poynter"
+        ]
+      },
+      "9": {
+        "code": "-",
+        "cited_domains": [
+          "foleymc",
+          "idolny",
+          "withum"
+        ],
+        "competitors_named": []
+      },
+      "10": {
+        "code": "-",
+        "cited_domains": [
+          "x",
+          "olereissmann",
+          "vimeo",
+          "superintelligencemedia"
+        ],
+        "competitors_named": []
+      },
+      "11": {
+        "code": "-",
+        "cited_domains": [
+          "ac",
+          "wikipedia",
+          "isoj",
+          "pulitzercenter"
+        ],
+        "competitors_named": [
+          "Reuters Institute"
+        ]
+      },
+      "12": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": [
+          "Knight Center",
+          "Reuters Institute",
+          "Nieman Lab"
+        ]
+      },
+      "13": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      },
+      "14": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      }
+    },
+    "perplexity": {
+      "0": {
+        "code": "MC",
+        "cited_domains": [
+          "apple",
+          "mediacopilot",
+          "linkedin",
+          "socialbee"
+        ],
+        "competitors_named": []
+      },
+      "1": {
+        "code": "MC",
+        "cited_domains": [
+          "linkedin",
+          "marcomsummit",
+          "fastcompany",
+          "apple"
+        ],
+        "competitors_named": []
+      },
+      "2": {
+        "code": "-",
+        "cited_domains": [
+          "tandfonline",
+          "theopennotebook",
+          "miami",
+          "cjr"
+        ],
+        "competitors_named": []
+      },
+      "3": {
+        "code": "C",
+        "cited_domains": [
+          "linkedin",
+          "cjr",
+          "eesel",
+          "businessjournalism"
+        ],
+        "competitors_named": []
+      },
+      "4": {
+        "code": "-",
+        "cited_domains": [
+          "partnershiponai",
+          "tandfonline",
+          "ap",
+          "journalistsresource"
+        ],
+        "competitors_named": []
+      },
+      "5": {
+        "code": "-",
+        "cited_domains": [
+          "ieee",
+          "rtdna",
+          "syr",
+          "tandfonline"
+        ],
+        "competitors_named": []
+      },
+      "6": {
+        "code": "-",
+        "cited_domains": [
+          "journalismcourses",
+          "partnershiponai",
+          "ap",
+          "thomsonfoundation"
+        ],
+        "competitors_named": []
+      },
+      "7": {
+        "code": "-",
+        "cited_domains": [
+          "nctj",
+          "journalists",
+          "journalismcourses",
+          "journalismai"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "Knight Center"
+        ]
+      },
+      "8": {
+        "code": "-",
+        "cited_domains": [
+          "maven",
+          "journalismcourses",
+          "cnn",
+          "youtube"
+        ],
+        "competitors_named": [
+          "Knight Center",
+          "CNN Academy"
+        ]
+      },
+      "9": {
+        "code": "-",
+        "cited_domains": [
+          "wednesday",
+          "linkedin",
+          "bain",
+          "altmansolon"
+        ],
+        "competitors_named": []
+      },
+      "10": {
+        "code": "-",
+        "cited_domains": [
+          "superhuman",
+          "reddit",
+          "therundown",
+          "zapier"
+        ],
+        "competitors_named": [
+          "The Rundown AI",
+          "Superhuman AI"
+        ]
+      },
+      "11": {
+        "code": "-",
+        "cited_domains": [
+          "notified",
+          "mvpr",
+          "x",
+          "responsesource"
+        ],
+        "competitors_named": [
+          "JournalismAI"
+        ]
+      },
+      "12": {
+        "code": "-",
+        "cited_domains": [
+          "elearningindustry",
+          "certnexus",
+          "mmclearning",
+          "youtube"
+        ],
+        "competitors_named": []
+      },
+      "13": {
+        "code": "-",
+        "cited_domains": [
+          "worldcomgroup",
+          "prsa",
+          "pr",
+          "cision"
+        ],
+        "competitors_named": []
+      },
+      "14": {
+        "code": "-",
+        "cited_domains": [
+          "ibm",
+          "zoominfo",
+          "databricks",
+          "funnel"
+        ],
+        "competitors_named": []
+      }
+    },
+    "gemini": {
+      "0": {
+        "code": "M",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "1": {
+        "code": "M",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "2": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": [
+          "Poynter"
+        ]
+      },
+      "3": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "4": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "5": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "6": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "7": {
+        "code": "M",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "Poynter"
+        ]
+      },
+      "8": {
+        "code": "M",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "Poynter"
+        ]
+      },
+      "9": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "10": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": [
+          "The Rundown AI",
+          "JournalismAI"
+        ]
+      },
+      "11": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": [
+          "Poynter"
+        ]
+      },
+      "12": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "13": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      },
+      "14": {
+        "code": "-",
+        "cited_domains": [
+          "google"
+        ],
+        "competitors_named": []
+      }
+    },
+    "claude": {
+      "0": {
+        "code": "MC",
+        "cited_domains": [
+          "apple",
+          "youtube",
+          "linkedin",
+          "prdaily"
+        ],
+        "competitors_named": []
+      },
+      "1": {
+        "code": "MC",
+        "cited_domains": [
+          "linkedin",
+          "fastcompany",
+          "substack",
+          "x"
+        ],
+        "competitors_named": []
+      },
+      "2": {
+        "code": "-",
+        "cited_domains": [
+          "theajp",
+          "journalistsresource",
+          "niemanlab",
+          "arxiv"
+        ],
+        "competitors_named": [
+          "Poynter"
+        ]
+      },
+      "3": {
+        "code": "MC",
+        "cited_domains": [
+          "visualping",
+          "businessjournalism",
+          "eesel",
+          "journaliststoolbox"
+        ],
+        "competitors_named": []
+      },
+      "4": {
+        "code": "C",
+        "cited_domains": [
+          "ac",
+          "thewrap",
+          "localmedia",
+          "inma"
+        ],
+        "competitors_named": [
+          "Poynter",
+          "Reuters Institute"
+        ]
+      },
+      "5": {
+        "code": "-",
+        "cited_domains": [
+          "poynter",
+          "ethicsandjournalism",
+          "localmedia",
+          "wgcu"
+        ],
+        "competitors_named": [
+          "Poynter"
+        ]
+      },
+      "6": {
+        "code": "C",
+        "cited_domains": [
+          "wan-ifra",
+          "ac",
+          "microsoft",
+          "inma"
+        ],
+        "competitors_named": [
+          "Reuters Institute"
+        ]
+      },
+      "7": {
+        "code": "-",
+        "cited_domains": [
+          "journalismai",
+          "cuny",
+          "opportunitiesforyouth",
+          "research"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "CNN Academy",
+          "Reuters Institute"
+        ]
+      },
+      "8": {
+        "code": "-",
+        "cited_domains": [
+          "withgoogle",
+          "utexas",
+          "poynter",
+          "journalists"
+        ],
+        "competitors_named": [
+          "Knight Center",
+          "Poynter"
+        ]
+      },
+      "9": {
+        "code": "-",
+        "cited_domains": [
+          "neurons-lab",
+          "casebasix",
+          "linkedin",
+          "aimediaconsultants"
+        ],
+        "competitors_named": []
+      },
+      "10": {
+        "code": "MC",
+        "cited_domains": [
+          "readless",
+          "genai",
+          "datanorth",
+          "datacamp"
+        ],
+        "competitors_named": [
+          "The Rundown AI",
+          "Superhuman AI",
+          "JournalismAI",
+          "Reuters Institute"
+        ]
+      },
+      "11": {
+        "code": "C",
+        "cited_domains": [
+          "ac",
+          "mvpr",
+          "universityofcalifornia",
+          "cuny"
+        ],
+        "competitors_named": [
+          "Reuters Institute"
+        ]
+      },
+      "12": {
+        "code": "-",
+        "cited_domains": [
+          "opportunitiesforyouth",
+          "springer",
+          "poynter",
+          "media-and-learning"
+        ],
+        "competitors_named": [
+          "JournalismAI",
+          "Poynter"
+        ]
+      },
+      "13": {
+        "code": "-",
+        "cited_domains": [
+          "lexisnexis",
+          "cision",
+          "muckrack",
+          "prweek"
+        ],
+        "competitors_named": []
+      },
+      "14": {
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
+      }
+    }
   }
 }
