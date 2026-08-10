@@ -2,7 +2,7 @@
   "brand": "Eight Sleep",
   "url": "eightsleep.com",
   "person": "Matteo Franceschetti",
-  "lastRun": "2026-08-03",
+  "lastRun": "2026-08-10",
   "queries": [
     {
       "q": "What is Eight Sleep",
@@ -91,7 +91,8 @@
         "code": "M",
         "cited_domains": [
           "fortune",
-          "theofficialboard"
+          "area-c",
+          "comuniecitta"
         ],
         "competitors_named": []
       },
@@ -104,7 +105,7 @@
         "code": "M",
         "cited_domains": [
           "sleepfoundation",
-          "manofmany",
+          "ebay",
           "tomsguide",
           "truemed"
         ],
@@ -124,7 +125,7 @@
         "competitors_named": []
       },
       "6": {
-        "code": "M",
+        "code": "-",
         "cited_domains": [],
         "competitors_named": [
           "Sleep Number",
@@ -144,37 +145,39 @@
         ],
         "competitors_named": [
           "Tempur-Pedic",
-          "Sleep Number",
-          "Saatva"
+          "Sleep Number"
         ]
       },
       "8": {
         "code": "M",
         "cited_domains": [],
         "competitors_named": [
-          "Tempur-Pedic",
           "Sleep Number"
         ]
       },
       "9": {
         "code": "-",
         "cited_domains": [
-          "com",
           "tomsguide",
-          "propakistani",
-          "techradar"
+          "sleepfoundation",
+          "bestbuy",
+          "brilliantmade"
         ],
         "competitors_named": [
-          "Oura"
+          "Oura",
+          "Whoop",
+          "Apple Watch",
+          "Fitbit",
+          "Garmin"
         ]
       },
       "10": {
         "code": "M",
         "cited_domains": [
-          "consumerreports",
-          "forbes",
-          "com",
-          "dweva"
+          "truemed",
+          "tomsguide",
+          "ebay",
+          "saatva"
         ],
         "competitors_named": [
           "Tempur-Pedic",
@@ -184,38 +187,41 @@
         ]
       },
       "11": {
-        "code": "M",
-        "cited_domains": [],
+        "code": "MC",
+        "cited_domains": [
+          "tomsguide",
+          "goodhousekeeping"
+        ],
         "competitors_named": [
           "Tempur-Pedic"
         ]
       },
       "12": {
-        "code": "M",
+        "code": "-",
         "cited_domains": [
+          "brilliantmade",
+          "t3",
           "gizmodo",
-          "tomsguide",
-          "com",
-          "healf"
+          "961cells"
         ],
         "competitors_named": [
-          "Oura"
+          "Oura",
+          "Apple Watch"
         ]
       },
       "13": {
-        "code": "M",
+        "code": "-",
         "cited_domains": [],
         "competitors_named": [
           "Oura",
-          "Whoop",
-          "Apple Watch"
+          "Whoop"
         ]
       },
       "14": {
         "code": "-",
         "cited_domains": [],
         "competitors_named": [
-          "Whoop",
+          "Oura",
           "Apple Watch",
           "Fitbit",
           "Garmin"
@@ -226,40 +232,40 @@
       "0": {
         "code": "MC",
         "cited_domains": [
-          "wikipedia",
           "neura",
-          "tomsguide",
-          "google"
+          "biohackeralliance",
+          "wikipedia",
+          "tomsguide"
         ],
         "competitors_named": []
       },
       "1": {
-        "code": "M",
+        "code": "MC",
         "cited_domains": [
           "x",
-          "linkedin",
           "youtube",
-          "cnbc"
+          "instagram",
+          "51gt3"
         ],
         "competitors_named": []
       },
       "2": {
         "code": "MC",
         "cited_domains": [
+          "scienceinsights",
           "nymag",
           "youtube",
-          "earthy30",
-          "wired"
+          "michaelkummer"
         ],
         "competitors_named": []
       },
       "3": {
-        "code": "MC",
+        "code": "M",
         "cited_domains": [
           "sleepfoundation",
-          "goodhousekeeping",
+          "harvardapparatusregen",
           "sleepdoctor",
-          "mattressproducts"
+          "wired"
         ],
         "competitors_named": [
           "Tempur-Pedic",
@@ -269,10 +275,10 @@
       "4": {
         "code": "-",
         "cited_domains": [
-          "mayoclinic",
           "harvard",
+          "healthline",
           "healthylongevity",
-          "healthline"
+          "helpguide"
         ],
         "competitors_named": []
       },
@@ -280,8 +286,8 @@
         "code": "-",
         "cited_domains": [
           "co",
-          "webmd",
           "nosleeplessnights",
+          "thesleepinstitute",
           "casper"
         ],
         "competitors_named": []
@@ -289,22 +295,23 @@
       "6": {
         "code": "-",
         "cited_domains": [
-          "wired",
           "nih",
-          "wikipedia",
-          "oup"
+          "wired",
+          "sleepfoundation",
+          "wikipedia"
         ],
         "competitors_named": []
       },
       "7": {
-        "code": "M",
+        "code": "C",
         "cited_domains": [
           "sleepfoundation",
-          "sleepadvisor",
           "goodhousekeeping",
-          "mattressproducts"
+          "sleepadvisor",
+          "sleepdoctor"
         ],
         "competitors_named": [
+          "Tempur-Pedic",
           "Sleep Number"
         ]
       },
@@ -312,22 +319,23 @@
         "code": "MC",
         "cited_domains": [
           "youtube",
-          "wired",
           "mashable",
-          "sleepfoundation"
+          "ergomotion",
+          "wired"
         ],
         "competitors_named": [
           "Tempur-Pedic",
-          "Sleep Number"
+          "Sleep Number",
+          "Garmin"
         ]
       },
       "9": {
         "code": "-",
         "cited_domains": [
-          "thecut",
-          "gq",
           "nosleeplessnights",
-          "wareable"
+          "thecut",
+          "nytimes",
+          "cnet"
         ],
         "competitors_named": [
           "Oura",
@@ -339,8 +347,8 @@
         "cited_domains": [
           "sleepfoundation",
           "sleepadvisor",
-          "mattressproducts",
-          "vitalguide"
+          "byaevum",
+          "mattressproducts"
         ],
         "competitors_named": [
           "Tempur-Pedic",
@@ -354,8 +362,8 @@
         "cited_domains": [
           "tomsguide",
           "youtube",
-          "mattressstoreslosangeles",
-          "sleepsage"
+          "sleepsage",
+          "theporchnpatio"
         ],
         "competitors_named": [
           "Tempur-Pedic"
@@ -378,9 +386,9 @@
         "code": "-",
         "cited_domains": [
           "youtube",
-          "sixsenses",
           "mfm",
-          "ubiehealth"
+          "feelresty",
+          "sixsenses"
         ],
         "competitors_named": []
       },
@@ -388,9 +396,9 @@
         "code": "-",
         "cited_domains": [
           "openai",
+          "amazon",
           "ai",
-          "research",
-          "nih"
+          "research"
         ],
         "competitors_named": []
       }
@@ -411,10 +419,8 @@
         "competitors_named": []
       },
       "2": {
-        "code": "M",
-        "cited_domains": [
-          "google"
-        ],
+        "code": "-",
+        "cited_domains": [],
         "competitors_named": []
       },
       "3": {
@@ -426,7 +432,7 @@
           "Tempur-Pedic",
           "Sleep Number",
           "Bryte",
-          "Saatva"
+          "Perfectly Snug"
         ]
       },
       "4": {
@@ -448,30 +454,38 @@
         "cited_domains": [
           "google"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Oura",
+          "Garmin"
+        ]
       },
       "7": {
-        "code": "-",
+        "code": "M",
         "cited_domains": [
           "google"
         ],
         "competitors_named": [
           "Tempur-Pedic",
-          "Sleep Number"
+          "Sleep Number",
+          "Bryte",
+          "Helix"
         ]
       },
       "8": {
-        "code": "-",
+        "code": "M",
         "cited_domains": [
           "google"
         ],
         "competitors_named": [
+          "Tempur-Pedic",
           "Sleep Number",
-          "Saatva"
+          "Bryte",
+          "Saatva",
+          "Garmin"
         ]
       },
       "9": {
-        "code": "M",
+        "code": "-",
         "cited_domains": [
           "google"
         ],
@@ -479,7 +493,8 @@
           "Oura",
           "Whoop",
           "Apple Watch",
-          "Fitbit"
+          "Fitbit",
+          "Garmin"
         ]
       },
       "10": {
@@ -509,10 +524,11 @@
           "google"
         ],
         "competitors_named": [
+          "Tempur-Pedic",
           "Sleep Number",
-          "Casper",
           "Oura",
-          "Whoop"
+          "Apple Watch",
+          "Fitbit"
         ]
       },
       "13": {
@@ -529,54 +545,181 @@
         "cited_domains": [
           "google"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Oura"
+        ]
       }
     },
     "claude": {
       "0": {
-        "code": "ERR"
+        "code": "M",
+        "cited_domains": [
+          "tracxn",
+          "wikipedia",
+          "contrary",
+          "pitchbook"
+        ],
+        "competitors_named": []
       },
       "1": {
-        "code": "ERR"
+        "code": "MC",
+        "cited_domains": [
+          "delphi",
+          "mmaglobal",
+          "wikipedia",
+          "crunchbase"
+        ],
+        "competitors_named": []
       },
       "2": {
-        "code": "ERR"
+        "code": "MC",
+        "cited_domains": [
+          "michaelkummer",
+          "wetried",
+          "breakingeighty",
+          "outsideonline"
+        ],
+        "competitors_named": []
       },
       "3": {
-        "code": "ERR"
+        "code": "M",
+        "cited_domains": [
+          "sleepfoundation",
+          "mattressnut",
+          "sleepadvisor",
+          "forbes"
+        ],
+        "competitors_named": [
+          "Tempur-Pedic",
+          "Sleep Number",
+          "Bryte"
+        ]
       },
       "4": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
       },
       "5": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [],
+        "competitors_named": []
       },
       "6": {
-        "code": "ERR"
+        "code": "M",
+        "cited_domains": [
+          "sleepfoundation",
+          "choosemuse",
+          "circular",
+          "thelongevitystore"
+        ],
+        "competitors_named": [
+          "Oura",
+          "Whoop",
+          "Fitbit",
+          "Garmin"
+        ]
       },
       "7": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [
+          "sleepfoundation",
+          "forbes",
+          "sleepdoctor",
+          "mattressnut"
+        ],
+        "competitors_named": [
+          "Tempur-Pedic",
+          "Sleep Number"
+        ]
       },
       "8": {
-        "code": "ERR"
+        "code": "M",
+        "cited_domains": [
+          "sleepdoctor",
+          "sleepfoundation",
+          "mattressnut",
+          "sleepadvisor"
+        ],
+        "competitors_named": [
+          "Sleep Number",
+          "Bryte"
+        ]
       },
       "9": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [
+          "sleepfoundation",
+          "wareable",
+          "tomsguide",
+          "techradar"
+        ],
+        "competitors_named": [
+          "Oura",
+          "Whoop",
+          "Apple Watch",
+          "Fitbit"
+        ]
       },
       "10": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [
+          "sleepdoctor",
+          "sleepfoundation",
+          "forbes",
+          "yahoo"
+        ],
+        "competitors_named": [
+          "Tempur-Pedic",
+          "Sleep Number",
+          "Bryte",
+          "Saatva"
+        ]
       },
       "11": {
-        "code": "ERR"
+        "code": "MC",
+        "cited_domains": [
+          "mattressnerd",
+          "mattressclarity",
+          "inkl",
+          "mattressstoreslosangeles"
+        ],
+        "competitors_named": [
+          "Tempur-Pedic",
+          "Sleep Number"
+        ]
       },
       "12": {
-        "code": "ERR"
+        "code": "M",
+        "cited_domains": [
+          "forbes",
+          "mensjournal",
+          "neuvanalife",
+          "sleepfoundation"
+        ],
+        "competitors_named": [
+          "Oura"
+        ]
       },
       "13": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [
+          "medicaldaily",
+          "holistixintl",
+          "pemfmagazine",
+          "healingartsnyc"
+        ],
+        "competitors_named": []
       },
       "14": {
-        "code": "ERR"
+        "code": "-",
+        "cited_domains": [
+          "redhat",
+          "kff",
+          "businessupturn",
+          "aiarena"
+        ],
+        "competitors_named": []
       }
     }
   }
