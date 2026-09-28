@@ -2,7 +2,7 @@
   "brand": "The Media Copilot",
   "url": "mediacopilot.ai",
   "person": "Pete Pachal",
-  "lastRun": "2026-09-21",
+  "lastRun": "2026-09-28",
   "queries": [
     {
       "q": "What is The Media Copilot",
@@ -88,10 +88,8 @@
         "competitors_named": []
       },
       "1": {
-        "code": "M",
+        "code": "MC",
         "cited_domains": [
-          "forbes",
-          "marcomsummit",
           "me"
         ],
         "competitors_named": []
@@ -107,22 +105,14 @@
           "okara",
           "aipedia",
           "appleinsider",
-          "saner"
+          "rankedsuite"
         ],
         "competitors_named": []
       },
       "4": {
         "code": "-",
-        "cited_domains": [
-          "poynter",
-          "mediapost",
-          "coldstreams",
-          "forbes"
-        ],
-        "competitors_named": [
-          "Poynter",
-          "Reuters Institute"
-        ]
+        "cited_domains": [],
+        "competitors_named": []
       },
       "5": {
         "code": "-",
@@ -141,8 +131,8 @@
         "cited_domains": [
           "journalismai",
           "cuny",
-          "ilhamintacademy",
-          "columbia"
+          "simppl",
+          "ilhamintacademy"
         ],
         "competitors_named": [
           "JournalismAI",
@@ -152,14 +142,13 @@
       "8": {
         "code": "-",
         "cited_domains": [
-          "ilhamintacademy",
           "journalismai",
+          "poynter",
           "nctj",
-          "poynter"
+          "withgoogle"
         ],
         "competitors_named": [
           "JournalismAI",
-          "Knight Center",
           "Poynter"
         ]
       },
@@ -185,14 +174,12 @@
       "11": {
         "code": "-",
         "cited_domains": [
-          "prowly",
-          "ac",
+          "wikipedia",
           "isoj",
-          "wikipedia"
+          "pulitzercenter",
+          "ivir"
         ],
-        "competitors_named": [
-          "Reuters Institute"
-        ]
+        "competitors_named": []
       },
       "12": {
         "code": "-",
@@ -200,8 +187,7 @@
         "competitors_named": [
           "JournalismAI",
           "Knight Center",
-          "Reuters Institute",
-          "Nieman Lab"
+          "Reuters Institute"
         ]
       },
       "13": {
@@ -220,9 +206,9 @@
         "code": "MC",
         "cited_domains": [
           "apple",
-          "prweek",
-          "iheart",
-          "anchor"
+          "linkedin",
+          "amazon",
+          "spotify"
         ],
         "competitors_named": []
       },
@@ -232,39 +218,41 @@
           "linkedin",
           "muckrack",
           "petepachal",
-          "amazon"
+          "fastcompany"
         ],
         "competitors_named": []
       },
       "2": {
-        "code": "C",
+        "code": "-",
         "cited_domains": [
           "irex",
-          "tandfonline",
-          "ethicsandjournalism",
-          "ibm"
+          "ac",
+          "journalists",
+          "cjr"
         ],
         "competitors_named": []
       },
       "3": {
-        "code": "C",
+        "code": "-",
         "cited_domains": [
-          "foraithings",
-          "visualping",
           "saner",
-          "reporterstack"
+          "otio",
+          "cjr",
+          "murf"
         ],
         "competitors_named": []
       },
       "4": {
-        "code": "C",
+        "code": "-",
         "cited_domains": [
+          "openai",
           "wan-ifra",
-          "partnershiponai",
           "ibm",
           "niemanlab"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Reuters Institute"
+        ]
       },
       "5": {
         "code": "-",
@@ -272,27 +260,27 @@
           "frontiersin",
           "poynter",
           "sagepub",
-          "usi"
+          "ifj"
         ],
         "competitors_named": []
       },
       "6": {
         "code": "-",
         "cited_domains": [
-          "therankmasters",
-          "aifornewsroom",
-          "thepublive",
-          "navigaglobal"
+          "org",
+          "ap",
+          "newsmediahelpdesk",
+          "thepublive"
         ],
         "competitors_named": []
       },
       "7": {
-        "code": "MC",
+        "code": "C",
         "cited_domains": [
           "journalists",
-          "opportunitiesforyouth",
-          "journalismai",
-          "cuny"
+          "cuny",
+          "tandfonline",
+          "journalismai"
         ],
         "competitors_named": [
           "JournalismAI",
@@ -300,37 +288,35 @@
         ]
       },
       "8": {
-        "code": "MC",
+        "code": "-",
         "cited_domains": [
-          "journalismcourses",
           "cuny",
-          "journalismai",
-          "opportunitiesforyouth"
+          "pulitzercenter",
+          "journalists",
+          "tandfonline"
         ],
         "competitors_named": [
           "JournalismAI",
-          "Knight Center",
-          "CNN Academy",
-          "Reuters Institute"
+          "Knight Center"
         ]
       },
       "9": {
         "code": "-",
         "cited_domains": [
-          "aimediaconsultants",
           "audiencers",
-          "jedamdigital",
-          "mathison"
+          "bain",
+          "ordodigital",
+          "deanarnett"
         ],
         "competitors_named": []
       },
       "10": {
         "code": "-",
         "cited_domains": [
-          "reddit",
-          "datacamp",
+          "co",
+          "ijnet",
           "hark",
-          "fast"
+          "journaliststoolbox"
         ],
         "competitors_named": [
           "The Rundown AI"
@@ -340,41 +326,43 @@
         "code": "-",
         "cited_domains": [
           "co",
-          "notified",
+          "cjr",
           "prowly",
-          "mvpr"
+          "pulitzercenter"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Reuters Institute"
+        ]
       },
       "12": {
         "code": "MC",
         "cited_domains": [
           "cursarium",
-          "pulitzercenter",
-          "journalismfutures",
-          "elearningindustry"
+          "herwill",
+          "project-aeon",
+          "whop"
         ],
         "competitors_named": [
-          "Knight Center"
+          "Poynter"
         ]
       },
       "13": {
         "code": "-",
         "cited_domains": [
           "coursera",
-          "sciencedirect",
-          "cision",
-          "muckrack"
+          "agilitypr",
+          "simpleviewinc",
+          "cision"
         ],
         "competitors_named": []
       },
       "14": {
         "code": "-",
         "cited_domains": [
-          "databricks",
           "zoominfo",
-          "lumenalta",
-          "hbr"
+          "deloitte",
+          "ibm",
+          "amazon"
         ],
         "competitors_named": []
       }
@@ -399,7 +387,9 @@
         "cited_domains": [
           "google"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Poynter"
+        ]
       },
       "3": {
         "code": "-",
@@ -413,7 +403,9 @@
         "cited_domains": [
           "google"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "JournalismAI"
+        ]
       },
       "5": {
         "code": "-",
@@ -460,12 +452,11 @@
         "competitors_named": []
       },
       "10": {
-        "code": "-",
+        "code": "M",
         "cited_domains": [
           "google"
         ],
         "competitors_named": [
-          "The Rundown AI",
           "Superhuman AI"
         ]
       },
@@ -482,7 +473,6 @@
           "google"
         ],
         "competitors_named": [
-          "JournalismAI",
           "Knight Center",
           "Poynter"
         ]
@@ -524,14 +514,16 @@
         "competitors_named": []
       },
       "2": {
-        "code": "MC",
+        "code": "-",
         "cited_domains": [
           "mediahelpingmedia",
-          "tandfonline",
+          "niemanlab",
           "theajp",
-          "niemanlab"
+          "cnti"
         ],
-        "competitors_named": []
+        "competitors_named": [
+          "Reuters Institute"
+        ]
       },
       "3": {
         "code": "MC",
@@ -546,10 +538,10 @@
       "4": {
         "code": "C",
         "cited_domains": [
+          "everything-pr",
           "ac",
-          "localmedia",
           "thewrap",
-          "etcjournal"
+          "localmedia"
         ],
         "competitors_named": [
           "Reuters Institute"
@@ -558,8 +550,8 @@
       "5": {
         "code": "-",
         "cited_domains": [
-          "localmedia",
           "poynter",
+          "localmedia",
           "springer",
           "objectivejournalism"
         ],
@@ -571,9 +563,9 @@
         "code": "C",
         "cited_domains": [
           "localmedia",
-          "microsoft",
           "ac",
-          "niemanlab"
+          "niemanlab",
+          "microsoft"
         ],
         "competitors_named": [
           "Reuters Institute"
@@ -596,10 +588,10 @@
       "8": {
         "code": "-",
         "cited_domains": [
-          "utexas",
           "journalists",
+          "cuny",
           "journalismcourses",
-          "maven"
+          "poynter"
         ],
         "competitors_named": [
           "Knight Center",
@@ -609,8 +601,8 @@
       "9": {
         "code": "-",
         "cited_domains": [
+          "wednesday",
           "linkedin",
-          "clutch",
           "leewayhertz",
           "artefact"
         ],
@@ -619,35 +611,35 @@
       "10": {
         "code": "-",
         "cited_domains": [
+          "paved",
           "datacamp",
           "clickittech",
-          "joinleland",
-          "datanorth"
+          "joinleland"
         ],
         "competitors_named": [
-          "The Rundown AI",
-          "Superhuman AI"
+          "The Rundown AI"
         ]
       },
       "11": {
-        "code": "-",
+        "code": "C",
         "cited_domains": [
+          "universityofcalifornia",
           "cuny",
-          "co",
-          "pulitzercenter",
-          "prowly"
+          "wikipedia",
+          "co"
         ],
         "competitors_named": [
+          "JournalismAI",
           "Reuters Institute"
         ]
       },
       "12": {
         "code": "MC",
         "cited_domains": [
-          "media-and-learning",
-          "springer",
           "opportunitiesforyouth",
-          "wikipedia"
+          "maven",
+          "certnexus",
+          "research"
         ],
         "competitors_named": [
           "JournalismAI",
@@ -659,9 +651,9 @@
         "code": "-",
         "cited_domains": [
           "lexisnexis",
-          "cision",
+          "prweek",
           "prsa",
-          "prweek"
+          "cision"
         ],
         "competitors_named": []
       },
